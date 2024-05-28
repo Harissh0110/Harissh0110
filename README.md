@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
+- 🤔 I’m looking for help with Placements in Python Developer
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://665129339c181fa72f8e14fa--hariprakashh-portfolio.netlify.app/#contact)
 
 - 💬 Ask me about **Python, React**
