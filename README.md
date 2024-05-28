@@ -5,7 +5,7 @@
 
 - 🤔 I’m looking for help with Placements in Python Developer
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://665129339c181fa72f8e14fa--hariprakashh-portfolio.netlify.app/#contact)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hariprakashh-portfolio.netlify.app)
 
 - 💬 Ask me about **Python, React**
 
