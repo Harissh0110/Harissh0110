@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://665129339c181fa72f8e14fa--hariprakashh-portfolio.netlify.app/#contact](https://665129339c181fa72f8e14fa--hariprakashh-portfolio.netlify.app/#contact)
+- 👨‍💻 All of my projects are available at [Portfolio](https://665129339c181fa72f8e14fa--hariprakashh-portfolio.netlify.app/#contact)
 
 - 💬 Ask me about **Python, React**
 
 - 📫 How to reach me **Harissh0110@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10UlQD1W8jrT4NA2A1jlqLtlvr73HEcR6/view?usp=drive_link](https://drive.google.com/file/d/10UlQD1W8jrT4NA2A1jlqLtlvr73HEcR6/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10UlQD1W8jrT4NA2A1jlqLtlvr73HEcR6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
